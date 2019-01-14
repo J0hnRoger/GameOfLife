@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="placehold"
+>
+  <h4
+    className="placehold__title"
+  >
+    App
+  </h4>
+</div>
+`;
